@@ -1,4 +1,7 @@
-# Netflix Clone App
+# Netflix Clone App 
+
+It's live and Working : 
+The app is deployed using Firebase at [Click Here](https://netflix-clone-92425.web.app)
 
 
 ![image](https://github.com/vidhihihihihi/netflix-clone/assets/92211866/bbcd20e9-b59e-4f75-b004-38639e67be1c)
@@ -7,7 +10,6 @@
 
 - [Description](#description)
 - [Features](#features)
-- [Demo](#demo)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Technologies](#technologies)
@@ -26,9 +28,6 @@ The Netflix Clone App is a web application that emulates the core functionality 
 - Create and manage watchlists
 - Responsive design for mobile and desktop devices
 
-## Demo
-
-Check out the live demo of the app [here](https://netflix-clone-92425.web.app).
 
 ## Screenshots
 
