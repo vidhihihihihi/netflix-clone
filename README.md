@@ -35,9 +35,10 @@ Check out the live demo of the app [here](https://netflix-clone-92425.web.app).
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+![Image](https://github.com/vidhihihihihi/netflix-clone/assets/92211866/0b89a69e-ddad-4ea0-be96-5a9a5034db49)
+
+![Image](https://github.com/vidhihihihihi/netflix-clone/assets/92211866/09a3d613-f8f8-45d9-bc70-30efb7881f46)
+
 
 ## Installation
 
