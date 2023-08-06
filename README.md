@@ -1,6 +1,6 @@
 # Netflix Clone App
 
-![Netflix Clone App Banner](/path/to/banner/image.png)
+
 ![image](https://github.com/vidhihihihihi/netflix-clone/assets/92211866/bbcd20e9-b59e-4f75-b004-38639e67be1c)
 
 ## Table of Contents
@@ -78,14 +78,10 @@ Contributions to the Netflix Clone App are welcome! If you want to contribute, f
 
 Please ensure your code follows the project's coding style and includes appropriate tests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- Email: gupta.74@iitj.ac.in
+- GitHub: [Vidhi Gupta](https://github.com/vidhihihihihi)
+- Twitter: [Your Twitter Handle](https://twitter.com/vidhihihihihihi)
