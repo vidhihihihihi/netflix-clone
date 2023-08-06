@@ -60,4 +60,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 - Email: gupta.74@iitj.ac.in
 - GitHub: [Vidhi Gupta](https://github.com/vidhihihihihi)
-- Twitter: [Your Twitter Handle](https://twitter.com/vidhihihihihihi)
+- Twitter: [Vidhi Gupta](https://twitter.com/vidhihihihihihi)
